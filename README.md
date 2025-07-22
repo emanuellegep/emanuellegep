@@ -1,16 +1,24 @@
-## Hi there 👋
+~~~python
+# print("Hello, world! I'm Emanuelle") 👋
+~~~
 
-<!--
-**emanuellegep/emanuellegep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Engineering Intern
+📚 Studying Systems Analysis & Development at [Mackenzie Presbyterian University](https://www.mackenzie.br/instituto/pg)
+📍 Born in Rio de Janeiro, based in São Paulo, Brazil  
+📊 Passionate about data analysis, international relations, global trade, and turning insights into action  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Experience
+- Data Engineering Intern at [GEP](https://github.com/GEP-GitHub)
+- Hands-on projects using Python, Pandas and Excel
+
+---
+
+## 🛠️ Tools & Technologies
+- Python, SQL, Excel, Git, Github
+
+---
+
+## 📫 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/emanuelle-nascimento2005/)
