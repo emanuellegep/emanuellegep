@@ -25,3 +25,6 @@ print("Hello, world! I'm Emanuelle") 👋
 
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/emanuelle-nascimento2005/)
+
+---
+*<sub>© [@emanuellegep](https://github.com/emanuellegep)</sub>*
