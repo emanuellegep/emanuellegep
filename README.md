@@ -3,14 +3,17 @@
 ~~~
 
 🎓 Data Engineering Intern
+
 📚 Studying Systems Analysis & Development at [Mackenzie Presbyterian University](https://www.mackenzie.br/instituto/pg)
-📍 Born in Rio de Janeiro, based in São Paulo, Brazil  
+
+📍🇧🇷 Born in Rio de Janeiro, based in São Paulo, Brazil  
+
 📊 Passionate about data analysis, international relations, global trade, and turning insights into action  
 
 ---
 
 ## 💼 Experience
-- Data Engineering Intern at [GEP](https://github.com/GEP-GitHub)
+- Data Engineering Intern at [GEP](https://www.linkedin.com/company/gep-worldwide/posts/?feedView=all)
 - Hands-on projects using Python, Pandas and Excel
 
 ---
