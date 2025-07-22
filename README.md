@@ -1,5 +1,5 @@
 ~~~python
-# print("Hello, world! I'm Emanuelle") 👋
+print("Hello, world! I'm Emanuelle") 👋
 ~~~
 
 🎓 Data Engineering Intern
