@@ -6,9 +6,9 @@
 
 📚 Studying Systems Analysis & Development at [Mackenzie Presbyterian University](https://www.mackenzie.br/instituto/pg)
 
-📍🇧🇷 Born in Rio de Janeiro, based in São Paulo, Brazil  
+📍 Born in Rio de Janeiro, based in São Paulo 🇧🇷
 
-📊 Passionate about data analysis, international relations, global trade, and turning insights into action  
+📊 Passionate about data analysis, international relations, global trade, and turning insights into action
 
 ---
 
